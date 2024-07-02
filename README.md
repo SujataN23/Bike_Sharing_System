@@ -20,8 +20,9 @@ They have contracted a consulting company to understand the factors on which the
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 ## Method Used
-Exploratory Data Analysis(EDA)
-Data Visualisation
+- Exploratory Data Analysis(EDA)
+- Data Visualisation
+- Model Building 
 
 ## Technologies Used
 Python - version 3.11.5
