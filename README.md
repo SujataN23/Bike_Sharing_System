@@ -8,9 +8,10 @@ They have contracted a consulting company to understand the factors on which the
 
 ## Table of Contents
 * [General Info](#general-information)
+* [Method Used](#Method-Used)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+* [Business Recommendation ](#Business-Recommendation )
 
 <!-- You can include any other section that is pertinent to your problem -->
 
@@ -18,6 +19,21 @@ They have contracted a consulting company to understand the factors on which the
 >You are required to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+## Method Used
+Exploratory Data Analysis(EDA)
+Data Visualisation
+
+## Technologies Used
+Python - version 3.11.5
+NumPy - version 1.24.3
+Pandas - version 2.1.4
+Matplotlib - version 3.7.2
+Seaborn - version 0.13.2
+missingno - version 0.5.2
+plotly - version 5.9.0
+sklearn - version 1.3.0
+statsmodels - verion 0.14.0
+datetime
 
 ## Conclusions
 - Train dataset R^2          : 0.83038
