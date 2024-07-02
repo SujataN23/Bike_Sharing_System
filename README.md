@@ -44,7 +44,7 @@ They have contracted a consulting company to understand the factors on which the
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-##Business Recommendation 
+## Business Recommendation 
 - Bike demand increases so focus on marketing efforts on favorable seasons like summer and winter.
 - Bike demand decrease in some weather conditions like light snow and light rain so cutomer needs little encouragement to purchase bike.
 - the data indicate that demand was higher in 2019 compared to 2018 so they can use strategies that worked in 2019 and replicate those.
