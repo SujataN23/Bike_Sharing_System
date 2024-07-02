@@ -25,16 +25,16 @@ They have contracted a consulting company to understand the factors on which the
 - Model Building 
 
 ## Technologies Used
-Python - version 3.11.5
-NumPy - version 1.24.3
-Pandas - version 2.1.4
-Matplotlib - version 3.7.2
-Seaborn - version 0.13.2
-missingno - version 0.5.2
-plotly - version 5.9.0
-sklearn - version 1.3.0
-statsmodels - verion 0.14.0
-datetime
+- Python - version 3.11.5
+- NumPy - version 1.24.3
+- Pandas - version 2.1.4
+- Matplotlib - version 3.7.2
+- Seaborn - version 0.13.2
+- missingno - version 0.5.2
+- plotly - version 5.9.0
+- sklearn - version 1.3.0
+- statsmodels - verion 0.14.0
+- datetime
 
 ## Conclusions
 - Train dataset R^2          : 0.83038
